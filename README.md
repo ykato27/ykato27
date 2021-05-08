@@ -6,3 +6,4 @@
 
 ## Link
 - [職務経歴詳細版](https://github.com/ykato27/resume)
+- [LinkedIn](https://www.linkedin.com/in/yuki-kato-7b979341/)
