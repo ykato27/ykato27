@@ -7,12 +7,6 @@
 - AI ベンダー（現職）
 
 
-## Link
-
-- [職務経歴詳細版](https://github.com/ykato27/resume)
-- [LinkedIn](https://www.linkedin.com/in/yuki-kato-7b979341/)
-
-
 ## 📊 GitHub Status 📋:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ykato27
