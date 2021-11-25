@@ -12,11 +12,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ykato27
 )](https://github.com/anuraghazra/github-readme-stats)
 
-
-## 🏆 Trophy 🏆 :
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ykato27)](https://github.com/anuraghazra/github-readme-stats)
-
 ## GitHub Streak:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yoshinori-koide&theme=onedark_duo)](https://git.io/streak-stats)
