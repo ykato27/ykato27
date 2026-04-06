@@ -1,12 +1,5 @@
 # My Profile
 
-
-## 職務経歴
-
-- 国内メーカー（約7年半）
-- AI ベンダー（現職）
-
-
 ## 📊 GitHub Status 📋:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ykato27
