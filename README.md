@@ -7,7 +7,7 @@
 
 ## GitHub Streak:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yoshinori-koide&theme=onedark_duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ykato27&theme=onedark_duo)](https://git.io/streak-stats)
 
 ## Github Profile:
 
