@@ -46,23 +46,15 @@ focus: [Machine Learning, Data Analysis, Streamlit Apps, LLM Applications]
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/ykato27/keiba-solo-db"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ykato27&repo=keiba-solo-db&theme=tokyonight" alt="keiba-solo-db" /></a>
-  <a href="https://github.com/ykato27/property-price-lookup"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ykato27&repo=property-price-lookup&theme=tokyonight" alt="property-price-lookup" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/ykato27/talent-graph-analyzer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ykato27&repo=talent-graph-analyzer&theme=tokyonight" alt="talent-graph-analyzer" /></a>
-  <a href="https://github.com/ykato27/SDP-Analysis-Dashboard-Unified"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ykato27&repo=SDP-Analysis-Dashboard-Unified&theme=tokyonight" alt="SDP-Analysis-Dashboard-Unified" /></a>
-</p>
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [keiba-solo-db](https://github.com/ykato27/keiba-solo-db) | 競馬データ分析システム。JRAデータの収集・蓄積から勝馬予測・ベッティング最適化まで | Python, SQLite, LightGBM, Streamlit |
-| [property-price-lookup](https://github.com/ykato27/property-price-lookup) | 国交省の取引データ約27万件を使い、割安な中古マンションを探すシステム | Python, LightGBM, Streamlit |
-| [talent-graph-analyzer](https://github.com/ykato27/talent-graph-analyzer) | GNN（グラフニューラルネットワーク）で優秀人材の特徴を抽出・分析 | Python, PyTorch Geometric, Streamlit |
-| [SDP-Analysis-Dashboard-Unified](https://github.com/ykato27/SDP-Analysis-Dashboard-Unified) | 製造業向けSDP分析ダッシュボード統合版。拠点のスキルギャップ可視化と意思決定支援 | Python, Streamlit |
-| [whisper-transcribe-app](https://github.com/ykato27/whisper-transcribe-app) | Whisperで音声を文字起こしし、Geminiで要約・整形するアプリ | Python, Whisper, Gemini API, Streamlit |
-| [video-memory-maker](https://github.com/ykato27/video-memory-maker) | 子供の顔が映るシーンを自動抽出し、ハイライト動画を作成 | Python, 顔検出AI, 動画処理 |
+| Project | What it is | Stack | Stars |
+| --- | --- | --- | --- |
+| [keiba-solo-db](https://github.com/ykato27/keiba-solo-db) | 競馬データ分析システム。JRAデータの収集・蓄積から勝馬予測・ベッティング最適化まで | Python, SQLite, LightGBM, Streamlit | ![GitHub stars](https://img.shields.io/github/stars/ykato27/keiba-solo-db?style=flat-square) |
+| [property-price-lookup](https://github.com/ykato27/property-price-lookup) | 国交省の取引データ約27万件を使い、割安な中古マンションを探すシステム | Python, LightGBM, Streamlit | ![GitHub stars](https://img.shields.io/github/stars/ykato27/property-price-lookup?style=flat-square) |
+| [talent-graph-analyzer](https://github.com/ykato27/talent-graph-analyzer) | GNN（グラフニューラルネットワーク）で優秀人材の特徴を抽出・分析 | Python, PyTorch Geometric, Streamlit | ![GitHub stars](https://img.shields.io/github/stars/ykato27/talent-graph-analyzer?style=flat-square) |
+| [SDP-Analysis-Dashboard-Unified](https://github.com/ykato27/SDP-Analysis-Dashboard-Unified) | 製造業向けSDP分析ダッシュボード統合版。拠点のスキルギャップ可視化と意思決定支援 | Python, Streamlit | ![GitHub stars](https://img.shields.io/github/stars/ykato27/SDP-Analysis-Dashboard-Unified?style=flat-square) |
+| [whisper-transcribe-app](https://github.com/ykato27/whisper-transcribe-app) | Whisperで音声を文字起こしし、Geminiで要約・整形するアプリ | Python, Whisper, Gemini API, Streamlit | ![GitHub stars](https://img.shields.io/github/stars/ykato27/whisper-transcribe-app?style=flat-square) |
+| [video-memory-maker](https://github.com/ykato27/video-memory-maker) | 子供の顔が映るシーンを自動抽出し、ハイライト動画を作成 | Python, 顔検出AI, 動画処理 | ![GitHub stars](https://img.shields.io/github/stars/ykato27/video-memory-maker?style=flat-square) |
 
 ## 📊 GitHub Stats
 
@@ -73,14 +65,6 @@ focus: [Machine Learning, Data Analysis, Streamlit Apps, LLM Applications]
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ykato27&theme=tokyonight" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ykato27&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ykato27&theme=tokyo-night&area=true&hide_border=true" alt="Contribution activity graph" />
 </p>
 
 ## 📈 Profile Summary
